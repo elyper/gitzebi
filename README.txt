@@ -5,4 +5,4 @@ I am storing them to keep track of my progress and to use them in my future
 programs and projects, if need be.
 
 It is also a way to train myself to push, pull, and manage various files and
-directories.
+directories using git commands
