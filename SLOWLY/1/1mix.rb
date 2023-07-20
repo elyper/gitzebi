@@ -1,4 +1,4 @@
-#! usr/bin/ruby
+#! /usr/bin/env ruby
 
 def greeter
   puts 'Oi, oi. What\'s your first name ?'

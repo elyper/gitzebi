@@ -1,4 +1,4 @@
-#! usr/bin/ruby
+#! /usr/bin/env ruby
 
 def hours_per_year
   result = 24 * 365

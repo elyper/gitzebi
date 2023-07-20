@@ -1,4 +1,4 @@
-#! usr/bin/ruby
+#! /usr/bin/env ruby
 
 def angry_boss
 puts "*Boss asks you*\n- Whaddaya want ?"

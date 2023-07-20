@@ -1,4 +1,4 @@
-#! usr/bin/ruby
+#! /usr/bin/env ruby
 
 def table_of_contents
   lineWidth = 80
